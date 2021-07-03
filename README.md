@@ -11,7 +11,7 @@
 
 » （🔥） FireCode - Development team
 
-» （💣） HighCraft - Polish minecraft server
+» （🚀） SpaceMC - Polish minecraft server
 
 <br />
 
