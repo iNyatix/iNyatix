@@ -1,5 +1,8 @@
-# Hi there, I'm Nyatix
+# Hi there, I'm Mateusz "Nyatix"
 
+<img src="https://discord.c99.nl/widget/theme-1/817394485037105153.png">
+
+###
 
 ### 📊 ┆ Statistics
 
@@ -8,8 +11,6 @@
 <br />
 
 ### 📌 ┆ Current projects
-
-» （🔥） FireCode - Development team
 
 » （🚀） SpaceMC - Polish minecraft server
 
