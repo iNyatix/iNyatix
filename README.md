@@ -12,7 +12,7 @@
 
 ### 📌 ┆ Current projects
 
-» （🚀） SpaceMC - Polish minecraft server
+» （👀） Soon...
 
 <br />
 
