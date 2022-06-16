@@ -12,9 +12,7 @@
 
 ### 📌 ┆ Current projects
 
-» （🔧） CookieMC.PL - Developer
-<br />
-» （👑） VulcanMC.PL - Owner
+soon
 
 <br />
 
