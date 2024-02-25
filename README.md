@@ -12,7 +12,7 @@
 
 ### 📌 ┆ Current projects
 
-soon
+ > <a href="https://enderhc.pl/">EnderHC.PL</a> - Main Developer
 
 <br />
 
