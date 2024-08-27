@@ -1,4 +1,4 @@
-# Hi there, I'm Mateusz "Nyatix"
+# Hi there, I'm Mateusz "Nyatix" Nowosielski
 
 <img src="https://discord.c99.nl/widget/theme-1/817394485037105153.png">
 
